@@ -13,6 +13,13 @@ I'm passionate about technology 🤓, specifically about AI and data science! I 
 - **Database:** SQL Server
 - **Cloud Services:** Microsoft Azure
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+[Any other relevant skills]
+
 ## 🌱 Currently Learning
 - NiFi
 - Hadoop
@@ -27,7 +34,10 @@ I'm passionate about technology 🤓, specifically about AI and data science! I 
 ## 👨‍💻 Data Scientist at GeakMinds Inc. (Jan 2021 - Sep 2023)
 - Worked on a Supply Chain Analytics project
 - Utilized technologies such as Microsoft Azure, SQL Server, and PySpark
-  
+
+## 🏆 HackerRank Profile
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joelp2306)
+- Check out my HackerRank profile for coding challenges and problem-solving achievements.
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/joel-prithvi/
