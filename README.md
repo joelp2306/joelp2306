@@ -5,7 +5,7 @@ I'm passionate about technology 🤓, specifically about AI and data science! I 
 
 ## 📝 Projects
 - **Data analysis on type of trips for a travel company**
- - Collaborated with my classmates to extract business insights for a travel agency
+  - Collaborated with my classmates to extract business insights for a travel agency
 
 ## 🚀 Skills
 - **Programming Languages:** Python, SQL
