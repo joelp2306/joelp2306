@@ -1,16 +1,39 @@
-### Hi there 👋
+# Joel Prithvi Ignatius
 
-<!--
-**joelp2306/joelp2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Master's Student in Big Data and Business Analytics
+- Currently pursuing my Master's at IE University
+- Expected Graduation: July 2024
 
-Here are some ideas to get you started:
+## 👨‍💻 Data Scientist at GeakMinds Inc.
+- Worked on a Supply Chain Analytics project
+- Utilized technologies such as Microsoft Azure, SQL Server, and PySpark
+  
+## 🚀 Skills
+- **Programming Languages:** Python, SQL
+- **Big Data Technologies:** PySpark
+- **Database:** SQL Server
+- **Cloud Services:** Microsoft Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- NiFi
+- Hadoop
+- Apache Kafka
+- Dataiku
+
+## 💼 Experience
+- **Data Scientist** at GeakMinds Inc. (Jan 2021 - September 2023)
+
+## 📚 Education
+- **Master's in Big Data and Business Analytics**
+  - IE University, Madrid, Spain
+  - Expected Graduation: July 2024
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/joel-prithvi/
+- Email: joelp2306@gmail.com
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=contribs,prs&theme=radical)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/joel-prithvi/)
