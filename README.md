@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Joel! 
-(https://www.hackerrank.com/profile/joelp2306)(https://www.linkedin.com/in/joel-prithvi/)
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joelp2306) &bull; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-prithvi/)
+
+</div>
+
 
 ## 🧐 About me
 I'm passionate about technology 🤓, specifically about AI and data science! I have 2 and a half years of experience in the field. I am currently doing my master's in big data and business analytics at IE university 🎓. Also, I love making music and have been playing guitar for 11 years 🎸!
@@ -28,10 +33,6 @@ I'm passionate about technology 🤓, specifically about AI and data science! I 
 ## 👨‍💻 Data Scientist at GeakMinds Inc. (Jan 2021 - Sep 2023)
 - Worked on a Supply Chain Analytics project
 - Utilized technologies such as Microsoft Azure, SQL Server, and PySpark
-
-## 🏆 HackerRank Profile
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joelp2306)
-- Check out my HackerRank profile for coding challenges and problem-solving achievements.
 
 ## 📫 Contact Me
 - LinkedIn: https://www.linkedin.com/in/joel-prithvi/
