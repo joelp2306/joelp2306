@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Joel! 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/joelp2306)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/joel-prithvi/)
+(https://www.hackerrank.com/profile/joelp2306)(https://www.linkedin.com/in/joel-prithvi/)
 
 ## 🧐 About me
 I'm passionate about technology 🤓, specifically about AI and data science! I have 2 and a half years of experience in the field. I am currently doing my master's in big data and business analytics at IE university 🎓. Also, I love making music and have been playing guitar for 11 years 🎸!
