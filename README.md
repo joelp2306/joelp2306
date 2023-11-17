@@ -1,4 +1,4 @@
-# Joel Prithvi Ignatius
+# Hi, I'm Joel! 👋
 
 ## About me
 I'm passionate about technology 🤓, specifically about AI and data science! I have 2 and a half years of experience in the field. I am currently doing my master's in big data and business analytics at IE university 🎓. Also, I love making music and have been playing guitar for 11 years 🎸!
